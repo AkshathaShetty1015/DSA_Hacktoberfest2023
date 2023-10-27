@@ -1,4 +1,4 @@
-\\Write & Execute Java Programto find shortest paths to other vertices from a 
+//Write & Execute Java Programto find shortest paths to other vertices from a 
 given vertex in a weighted connected graph, using Dijkstra's algorithm.
 
 package dijk;
